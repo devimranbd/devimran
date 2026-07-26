@@ -94,4 +94,34 @@
     color: white;
 }.fotter-item {
     background: black;
+}.Templates-menu {width: 48%;}
+
+.Templates {
+    width: 1200px;
+    margin: auto;
+    background: aliceblue;
+    display: flex;
+    margin-bottom: 35px;
+}.Templates-box {
+    width: 43%;
+    padding: 0px 48px;
+}
+
+.Templates-menu ul {
+    display: flex;
+    list-style: none;
+}.Templates-menu ul li a {
+    font-size: 22px;
+    text-decoration: none;
+    display: block;
+    padding: 17px;
+    color: black;
+}.box {
+    width: 1000px;
+    margin: auto;
+    margin-bottom: 30px;
+}
+
+.box img {
+    max-width: 100%;
 }
