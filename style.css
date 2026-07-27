@@ -124,4 +124,42 @@
 
 .box img {
     max-width: 100%;
+}.Template-Details-item {
+}
+
+.Template-Details {
+    width: 1200px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.Template-Details-box {
+    width: 20%;
+}
+
+.Template-Details-item {
+    width: 70%;
+}.Template-Details-box h1 {
+    border-bottom: 3px solid blue;
+    padding: 10px 0px;
+    font-size: 32px;
+    color: black;
+}.Template-Details-item h1 {
+    font-size: 36px;
+    border-bottom: 3px solid blue;
+    color: black;
+    padding: 10px 0px;
+}.Template-Details-item h2 {
+    font-size: 21px;
+    margin-bottom: 28px;
+}
+
+.Template-Details-item h3 {
+    color: black;
+    font-size: 21px;
+}.Template-Details-item h4 {
+    font-size: 40px;
+}.Template-Details-item h5 {
+    font-size: 21px;
 }
