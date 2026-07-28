@@ -162,4 +162,38 @@
     font-size: 40px;
 }.Template-Details-item h5 {
     font-size: 21px;
+}.Similar-Templates {
+    width: 1200px;
+    margin: auto;
+}.Similar-Templates {
+    width: 1200px;
+    margin: auto;
+    /* display: flex; */
+    /* justify-content: space-between; */
+    margin-bottom: 30px;
+}
+
+.image {
+    width: 31.5%;
+}
+
+.image img {
+    max-width: 100%;
+}.box-img {
+    width: 100%;
+}
+
+.Similar-box h1 {
+    border-bottom: 1px solid red;
+    padding: 10px 0px;
+}.box-img {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.Similar-box h1 {
+    border-bottom: 1px solid red;
+    padding: 10px 0px;
 }
